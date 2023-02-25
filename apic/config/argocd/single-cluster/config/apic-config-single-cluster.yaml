@@ -13,7 +13,7 @@ spec:
   project: applications
   source:
     path: apic/environments/single-cluster/config
-    repoURL: https://github.com/gitops-apic/multi-tenancy-gitops-infra.git
+    repoURL: https://github.com/gitops-apic/multi-tenancy-gitops-apps.git
     targetRevision: master
   syncPolicy:
     automated:
